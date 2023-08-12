@@ -1,5 +1,6 @@
 import 'package:dummy_trading/UI/portfolio/portfolio_controller.dart';
 import 'package:dummy_trading/UI/widgets/calendar_view.dart';
+import 'package:dummy_trading/UI/widgets/calendar/calendar_widget.dart';
 import 'package:dummy_trading/UI/widgets/custom_appbar.dart';
 import 'package:dummy_trading/UI/widgets/stockItem_tile.dart';
 import 'package:dummy_trading/utils/style.dart';
@@ -46,8 +47,8 @@ class OrderScreen extends StatelessWidget {
                   height: 12,
                 ),
                 SizedBox(
-                  height: 380,
-                  child: CalendarView(),
+                  height: 400,
+                  child: CustomCalendar()
                 ),
                 Padding(
                   padding: const EdgeInsets.only(left: 18.0),
