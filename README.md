@@ -22,7 +22,7 @@ This Flutter app showcases a customized stock wallet application, includes portf
 
 ## Installation
 
-1. Make sure you have Flutter installed. If not, follow the [Flutter installation guide]().
+1. Make sure you have Flutter installed. If not, follow the [Flutter installation guide](https://github.com/sathyajitharakkal/dummy_trading).
 
 ## Screenshots
 
@@ -32,4 +32,4 @@ This Flutter app showcases a customized stock wallet application, includes portf
 2. Clone this repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/sathyajitharakkal/dummy_trading.git
